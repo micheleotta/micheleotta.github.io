@@ -1,0 +1,13 @@
+section{
+    padding-top: 200px;
+    display: inline-block;
+}
+
+.menu{
+    background: rgb(181,255,107);
+    /* background: radial-gradient(circle, rgba(181,255,107,1) 0%, rgba(97,255,166,1) 100%); */
+}
+
+table{
+    left: 0;
+}
